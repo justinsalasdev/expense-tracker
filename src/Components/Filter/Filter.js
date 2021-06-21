@@ -10,7 +10,7 @@ export default function Filter({ year, setYear }) {
         id="pet-select"
       >
         <option className="filter__option" value="">
-          all
+          filter
         </option>
         <option className="filter__option" value="2021">
           2021
